@@ -1,3 +1,6 @@
+import java.lang.reflect.Method;
+import java.util.Scanner;
+
 public class Main {
 
 
@@ -6,6 +9,8 @@ public class Main {
 
         //TODO
         //Yazdığın fonksiyonu burada çağır.
+
+        Methods.numeralSum();
 
     }
 }
