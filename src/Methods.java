@@ -19,7 +19,7 @@ public class Methods {
             a /= 10;
             adet++;
         }
-
+        System.out.println("Basamak Toplamı: " + toplam);
     }
 
 
